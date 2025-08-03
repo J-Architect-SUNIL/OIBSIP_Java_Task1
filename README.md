@@ -1,5 +1,5 @@
 # OIBSIP_Java_Task1
-# Online Reservation System (OIBSIP Java Task 1)
+# Online Reservation System
 
 ## 💡 Objective
 To design a Java-based console application that simulates an online reservation system, enabling users to register, log in, book train tickets, and cancel reservations.
